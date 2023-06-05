@@ -1,0 +1,87 @@
+/*  
+ Name: Deep Saffron
+Hex: #FFA132
+RGB: (255, 161, 50)
+CMYK: 0, 0.368, 0.803, 0
+
+Name: Brandeis Blue
+Hex: #005DFF
+RGB: (0, 93, 255)
+CMYK: 1, 0.635, 0, 0
+
+Name: Fuchsia
+Hex: #EF00FF
+RGB: (239, 0, 255)
+CMYK: 0.062, 1, 0, 0
+	
+Name: Electric Green
+Hex: #00FF0C
+RGB: (0, 255, 12)
+CMYK: 1, 0, 0.952, 0
+	
+Name: Ferrari Red
+Hex: #FF2400
+RGB: (255, 36, 0)
+CMYK: 0, 0.858, 1, 0
+
+Name: Aqua
+Hex: #00F9FF
+RGB: (0, 249, 255)
+CMYK: 1, 0.023, 0, 0
+*/
+body{
+    background-color:#005DFF;
+    font-family: 'Recursive', sans-serif;  
+}
+nav, .dropdown-menu{
+    background-color:#005DFF;
+    font-family: 'Recursive', sans-serif; 
+    
+   
+}   
+
+#navbarWithDropdown{
+    justify-content: end;
+    
+ }
+    
+
+#item:hover {
+    background-color: #00F9FF ;
+    
+    margin: 3px;
+}
+
+.dropdown-item:hover{
+    background-color: #00F9FF
+
+}
+
+
+
+#main{
+
+    background-image: url("../images//backgrounds/index.jpg") ;
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 1500px;
+   
+
+}
+
+#qoutebox{
+    
+    background-color: rgb(255,255,255, .5);
+    text-align: center;
+    width: fit-content;
+    padding: 3%;
+    margin: auto;
+    margin-top: 20%;
+    font-size: 20px;
+    font-weight: bold;
+    }
+
+
+

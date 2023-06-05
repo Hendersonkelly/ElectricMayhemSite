@@ -1,0 +1,111 @@
+/*  
+ Name: Deep Saffron
+Hex: #FFA132
+RGB: (255, 161, 50)
+CMYK: 0, 0.368, 0.803, 0
+
+Name: Brandeis Blue
+Hex: #005DFF
+RGB: (0, 93, 255)
+CMYK: 1, 0.635, 0, 0
+
+Name: Fuchsia
+Hex: #EF00FF
+RGB: (239, 0, 255)
+CMYK: 0.062, 1, 0, 0
+	
+Name: Electric Green
+Hex: #00FF0C
+RGB: (0, 255, 12)
+CMYK: 1, 0, 0.952, 0
+	
+Name: Ferrari Red
+Hex: #FF2400
+RGB: (255, 36, 0)
+CMYK: 0, 0.858, 1, 0
+
+Name: Aqua
+Hex: #00F9FF
+RGB: (0, 249, 255)
+CMYK: 1, 0.023, 0, 0
+*/
+body{
+    margin: 0;
+    font-family: 'Recursive', sans-serif; 
+    background-image: url(../images/backgrounds/van.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+   
+}
+
+nav, .dropdown-menu{
+    background-color:#FFA132;
+    font-family: 'Recursive', sans-serif; 
+    
+   
+}   
+
+    
+#navbarWithDropdown{
+   justify-content: end;
+   
+}
+
+#item:hover {
+    background-color:#EF00FF ;
+    
+    margin: 3px;
+}
+
+.dropdown-item:hover{
+    background-color: #EF00FF
+
+}
+#feedbackContainer{
+    
+    width: 100vmax;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+
+    
+}
+
+#form-control-name{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 50vh;
+}
+#form-control-message{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 50vh;
+    height: 20vh;
+    
+    
+}
+#submit{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+#feedbackDisplay{
+    text-align: start;
+    align-items: end;
+    background-color:rgb(0, 255, 12,.4) ;
+    height:max-content;
+    padding: 1%;
+    margin: 1%;
+   
+}
+#feedback{
+border-color: grey;
+border-style: solid;
+padding: 1%;
+margin: 1%;
+
+}

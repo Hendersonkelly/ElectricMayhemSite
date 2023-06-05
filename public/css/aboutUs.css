@@ -1,0 +1,139 @@
+/*  
+ Name: Deep Saffron
+Hex: #FFA132
+RGB: (255, 161, 50)
+CMYK: 0, 0.368, 0.803, 0
+
+Name: Brandeis Blue
+Hex: #005DFF
+RGB: (0, 93, 255)
+CMYK: 1, 0.635, 0, 0
+
+Name: Fuchsia
+Hex: #EF00FF
+RGB: (239, 0, 255)
+CMYK: 0.062, 1, 0, 0
+	
+Name: Electric Green
+Hex: #00FF0C
+RGB: (0, 255, 12)
+CMYK: 1, 0, 0.952, 0
+	
+Name: Ferrari Red
+Hex: #FF2400
+RGB: (255, 36, 0)
+CMYK: 0, 0.858, 1, 0
+
+Name: Aqua
+Hex: #00F9FF
+RGB: (0, 249, 255)
+CMYK: 1, 0.023, 0, 0
+*/
+body{
+    background-image: url(../images/backgrounds/278468.jpg);
+    background-position: center;
+    background-size: contain;
+    font-family: 'Recursive', sans-serif; 
+    
+
+}
+
+nav, .dropdown-menu{
+    background-color:#FFA132;
+    
+    
+   
+}   
+
+#navbarWithDropdown{
+    justify-content: end;
+    
+ }
+    
+
+
+#item:hover {
+    background-color:#EF00FF ;
+    
+    margin: 3px;
+}
+
+.dropdown-item:hover{
+    background-color: #EF00FF
+
+}
+
+img{
+    border-color: black;
+    border-style: solid;
+    width: 28vh;
+    height: 30vh;
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+
+#Title{
+    background-color: rgb(255, 255, 255, .7);
+    text-align: center;
+     padding: 1%;
+     margin-top: 1%;
+     color: black;
+     border-color: black;
+     border-style: solid;
+     margin-left: 2%; 
+}
+
+#members{
+display: flex;
+justify-content: space-around;
+padding: 1%;
+
+
+}
+h5{
+background-color: rgb(255, 255, 255, .6);
+padding: 1%;
+margin-top: 1%;
+color: black;
+border-color: black;
+border-style: solid;
+}
+
+
+#origin{
+display: block;
+background-color: rgb(255, 255, 255, .8);
+width:100vh;
+padding: 2%;
+margin-top: 1%;
+color: black;
+border-color: black;
+border-style: solid;
+margin-left: 20%;
+
+}
+
+#Title{
+    background-color: rgb(255, 255, 255, .8);
+   text-align: center;
+    padding: 1%;
+    margin-top: 1%;
+    color: black;
+    border-color: black;
+    border-style: solid;
+    margin-left: 2%;
+}
+
+#development{
+display: inline;
+background-color: rgb(255, 255, 255, .7);
+width:100vh;
+padding: 1%;
+margin-top: 1%;
+color: black;
+border-color: black;
+border-style: solid;
+margin-left: 2%;
+
+
+}
