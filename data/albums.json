@@ -1,0 +1,46 @@
+{
+    "albums":[
+        
+            {
+            "albumName": "John Denver and the Muppets: A Christmas Together" ,
+            "shortName": "John_Denver_and_the_Muppets_A_Christmas _Together",
+            "tracklist":["Little Saint Nick"],
+            "summary": "John Denver and the Muppets: A Christmas Together is a 1979 Christmas television special starring Jim Henson's Muppets and singer-songwriter John Denver. The special first aired December 5, 1979, on ABC. It has never been released on any standard home video format but the special is available for viewing at the Paley Center for Media, alongside other Muppet specials.",
+            "artwork":"/images/albums/John_Denver_and_The_Muppets_A_Christmas_Together.jpg" ,
+            "albumListen":"WTfpZhsdd4Y",
+            "featuredArtists": ["John Denver"]
+
+        },
+            {
+            "albumName": "A Muppets Family Christmas" ,
+            "shortName": "A_Muppets_Family_Christmas",
+            "tracklist":["Jingle Bell Rock"],
+            "summary": "A Muppet Family Christmas is a Christmas television special starring Jim Henson's Muppets. It first aired on December 16, 1987, on the ABC television network in the United States. Shot in Toronto, Ontario, Canada, its teleplay was conceived by longtime Muppet writer Jerry Juhl, and directed by Peter Harris and Eric Till (the latter of whom was uncredited). The special features various Muppets from The Muppet Show, Sesame Street, Fraggle Rock, and Muppet Babies. It also stars Gerard Parkes as Doc from the North American wraparound segments of Fraggle Rock, and Henson as himself in a cameo appearance at the end. In the plot, the Muppets surprise Fozzie Bear's mother with a Christmas visit to her farmhouse, unaware of her planned getaway to Malibu.Due to licensing issues with songs featured in A Muppet Family Christmas, some scenes have been cut from subsequent home media releases.",
+            "artwork":"/images/albums/A_Muppet_Family_Christmas.jpg" ,
+            "albumListen":"GJLAFNYCE_c",
+            "featuredArtists": [""]
+
+        },
+            {
+            "albumName": "The Muppets At Walt Disney World" ,
+            "shortName": "The_Muppets_At_Walt_Disney_World",
+            "tracklist":["Rockin' All Around the World"],
+            "summary": "The Muppets at Walt Disney World is a television special starring Jim Henson's Muppets at Walt Disney World in Lake Buena Vista, Florida. The special aired on NBC as part of The Magical World of Disney on May 6, 1990, and turned out to be the last Muppets special that Henson would work on (he would die ten days following its airing, on May 16).",
+            "artwork":"/images/albums/The_Muppets_At_Walt_Disney_World.jpg" ,
+            "albumListen":"oIOLTmfboAs",
+            "featuredArtists": [""]
+
+        },
+            {
+            "albumName": "The Muppets: A Green and Red Christmas" ,
+            "shortName": "The_Muppets_A Green_and_Red_Christmas",
+            "tracklist":["The man with the Bag", "Run Run Rudolph", "Zat You Santa Claus"],
+            "summary": "The Muppets: A Green and Red Christmas is a Christmas album by The Muppets. The album was released by Walt Disney Records on October 17, 2006 on CD and as a digital download in the iTunes Store. In 2008, the album won a Grammy Award for Best Musical Album for Children. The album was reissued on November 1, 2011, as part of the marketing promotion for the film The Muppets.",
+            "artwork":"/images/albums/The_Muppets_A_Green_and_Red_Christmas.jpg" ,
+            "albumListen":"S2HCOHYVWv4",
+            "featuredArtists": [""]
+
+        }
+
+    ]
+}
