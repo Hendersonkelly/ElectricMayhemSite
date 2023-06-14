@@ -1,6 +1,6 @@
 # ElectricMayhemSite
 
-This was made in response to an assignment to create a band website with chat and commenting capabilities using the templating system EJS and routes. 
+This was made in response to an assignment to create a band website with chat and commenting capabilities using the templating system EJS and routes. As a Disney adult I could not pass up the opportunity to have a little fun with one of the greatest house bands on TV. 
 
 ![homepageband](https://github.com/Hendersonkelly/ElectricMayhemSite/assets/126027193/9b73f7f0-3539-4aff-9377-3679917fec8a)
 
